@@ -187,6 +187,19 @@
         "https://api.github.com/repos/invoiceninja/ui",
         "https://api.github.com/repos/invoiceninja/admin-portal"
       ]
+    },
+    {
+      "id": 19,
+      "name": "Medusa",
+      "description": "Building blocks for digital commerce",
+      "tags": ["react", "nodejs", "javascript", "typescript"],
+      "slug": "medusa",
+      "website": "https://medusajs.com",
+      "github": "https://github.com/medusajs",
+      "repos": [
+        "https://api.github.com/repos/medusajs/medusa",
+        "https://api.github.com/repos/medusajs/admin"
+      ]
     }
   ]
 }
