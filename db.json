@@ -7,7 +7,14 @@
       "slug": "calcom",
       "website": "https://cal.com",
       "github": "https://github.com/calcom",
-      "tags": ["Next.js", "TypeScript", "React"],
+      "tags": [
+        "react",
+        "nextjs",
+        "t3-stack",
+        "typescript",
+        "javascript",
+        "trpc"
+      ],
       "repos": ["https://api.github.com/repos/calcom/cal.com"]
     },
     {
@@ -17,14 +24,14 @@
       "slug": "railsdevs",
       "website": "https://railsdevs.com",
       "github": "https://github.com/joemasilotti/railsdevs.com",
-      "tags": ["Ruby on Rails", "Ruby"],
+      "tags": ["ruby on rails", "ruby"],
       "repos": ["https://api.github.com/repos/joemasilotti/railsdevs.com"]
     },
     {
       "id": 3,
       "name": "Supabase",
       "description": "The open source Firebase alternative.",
-      "tags": ["Next.js", "TypeScript", "React"],
+      "tags": ["nextjs", "typescript", "react"],
       "slug": "supabase",
       "website": "https://supabase.com",
       "github": "https://github.com/supabase",
@@ -34,7 +41,7 @@
       "id": 4,
       "name": "Helicone",
       "description": "Tooling for Generative AI",
-      "tags": ["Next.js", "TypeScript", "React"],
+      "tags": ["nextjs", "typescript", "react", "python"],
       "slug": "helicone",
       "website": "https://www.helicone.ai",
       "github": "https://github.com/Helicone",
@@ -44,7 +51,7 @@
       "id": 5,
       "name": "Payload",
       "description": "Built with React + TypeScript, Payload is a free and open-source Headless CMS.",
-      "tags": ["TypeScript", "React"],
+      "tags": ["react", "typescript", "javascript"],
       "slug": "payloadcms",
       "website": "https://payloadcms.com",
       "github": "https://github.com/payloadcms",
@@ -54,7 +61,7 @@
       "id": 6,
       "name": "Mirrorful",
       "description": "Create the building blocks of your app",
-      "tags": ["Next.js", "TypeScript", "React"],
+      "tags": ["nextjs", "typescript", "react"],
       "slug": "mirrorful",
       "website": "https://mirrorful.com",
       "github": "https://github.com/Mirrorful",
@@ -63,8 +70,8 @@
     {
       "id": 7,
       "name": "Infisical",
-      "description": "♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.",
-      "tags": ["Next.js", "TypeScript", "React"],
+      "description": "Infisical is an open-source, E2EE, and simple tool to sync environment variables across your team and infrastructure.",
+      "tags": ["nextjs", "typescript", "react", "golang"],
       "slug": "infisical",
       "website": "https://infisical.com",
       "github": "https://github.com/Infisical",
@@ -74,7 +81,7 @@
       "id": 8,
       "name": "highlight.io",
       "description": "highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging and more.",
-      "tags": ["Golang", "TypeScript"],
+      "tags": ["golang", "typescript", "javascript", "react"],
       "slug": "highlight",
       "website": "https://www.highlight.io",
       "github": "https://github.com/highlight",
@@ -84,7 +91,7 @@
       "id": 9,
       "name": "Reworkd",
       "description": "Assemble, configure, and deploy autonomous AI Agents in your browser.",
-      "tags": ["Next.js", "TypeScript", "t3", "Python"],
+      "tags": ["nextjs", "typescript", "t3-stack", "python"],
       "slug": "reworkd",
       "website": "https://agentgpt.reworkd.ai",
       "github": "https://github.com/reworkd",
@@ -94,7 +101,7 @@
       "id": 10,
       "name": "Keep",
       "description": "Open source alerts management platform",
-      "tags": ["Python", "Next.js", "TypeScript"],
+      "tags": ["python", "nextjs", "typescript", "javascript"],
       "slug": "keep",
       "website": "https://www.keephq.dev",
       "github": "https://github.com/keephq",
@@ -104,7 +111,7 @@
       "id": 11,
       "name": "Nango",
       "description": "Open-source product integration: Easily integrate you app with any external API",
-      "tags": ["TypeScript", "React"],
+      "tags": ["react", "typescript", "javascript"],
       "slug": "nango",
       "website": "https://www.nango.dev",
       "github": "https://github.com/NangoHQ",
@@ -113,18 +120,21 @@
     {
       "id": 12,
       "name": "Trigger.dev",
-      "description": "✨ Trigger.dev is an open-source platform that makes it easy for developers to create event-driven background tasks directly in their code.",
-      "tags": ["React", "TypeScript"],
+      "description": "The developer-first open source Zapier alternative.",
+      "tags": ["react", "typescript", "remix"],
       "slug": "triggerdotdev",
       "website": "https://www.trigger.dev",
       "github": "https://github.com/triggerdotdev",
-      "repos": ["https://api.github.com/repos/triggerdotdev/trigger.dev"]
+      "repos": [
+        "https://api.github.com/repos/triggerdotdev/trigger.dev",
+        "https://api.github.com/repos/triggerdotdev/jsonhero-web"
+      ]
     },
     {
       "id": 13,
       "name": "Flower",
       "description": "Flower: A Friendly Federated Learning Framework",
-      "tags": ["Python"],
+      "tags": ["python", "pytorch", "tensorflow"],
       "slug": "flower",
       "website": "https://flower.dev",
       "github": "https://github.com/adap",
@@ -134,7 +144,14 @@
       "id": 14,
       "name": "Lotus",
       "description": "Open Source Pricing & Packaging Infrastructure",
-      "tags": ["Python", "Django", "React", "TypeScript"],
+      "tags": [
+        "python",
+        "django",
+        "typescript",
+        "react",
+        "javascript",
+        "golang"
+      ],
       "slug": "lotus",
       "website": "https://www.uselotus.io",
       "github": "https://github.com/uselotus",
@@ -144,17 +161,29 @@
       "id": 15,
       "name": "Supertokens",
       "description": "Open source alternative to Auth0 / Firebase Auth / AWS Cognito",
-      "tags": ["React", "TypeScript"],
+      "tags": ["java", "react", "typescript"],
       "slug": "supertokens",
       "website": "https://supertokens.com",
       "github": "https://github.com/supertokens",
-      "repos": ["https://api.github.com/repos/supertokens/dashboard"]
+      "repos": [
+        "https://api.github.com/repos/supertokens/supertokens-core",
+        "https://api.github.com/repos/supertokens/supertokens-website",
+        "https://api.github.com/repos/supertokens/dashboard"
+      ]
     },
     {
       "id": 16,
       "name": "Forem",
       "description": "Forem is open source software for building communities. Communities for your peers, customers, fanbases, families, friends, and any other time and space where people need to come together to be part of a collective.",
-      "tags": ["Ruby On Rails", "Ruby", "Preact", "TypeScript"],
+      "tags": [
+        "ruby on rails",
+        "ruby",
+        "preact",
+        "typescript",
+        "react",
+        "kotlin",
+        "swift"
+      ],
       "slug": "forem",
       "website": "https://www.forem.com",
       "github": "https://github.com/forem",
@@ -168,7 +197,7 @@
       "id": 17,
       "name": "Sylius",
       "description": "Open Source eCommerce Framework on Symfony",
-      "tags": ["Symfony", "PHP"],
+      "tags": ["symfony", "php"],
       "slug": "sylius",
       "website": "https://sylius.com",
       "github": "https://github.com/Sylius",
@@ -178,7 +207,7 @@
       "id": 18,
       "name": "Invoice Ninja",
       "description": "Free Invoicing Software for Small Businesses built with Laravel, Flutter and React",
-      "tags": ["Laravel", "PHP", "Flutter", "Dart", "React", "TypeScript"],
+      "tags": ["laravel", "php", "flutter", "dark", "react", "typescript"],
       "slug": "invoiceninja",
       "website": "https://invoiceninja.com/",
       "github": "https://github.com/invoiceninja",
@@ -199,6 +228,52 @@
       "repos": [
         "https://api.github.com/repos/medusajs/medusa",
         "https://api.github.com/repos/medusajs/admin"
+      ]
+    },
+    {
+      "id": 20,
+      "name": "hoppscotch",
+      "description": "Open source API development ecosystem.",
+      "tags": ["vuejs", "javascript", "typescript"],
+      "slug": "hoppscotch",
+      "website": "https://hoppscotch.com",
+      "github": "https://github.com/hoppscotch",
+      "repos": ["https://api.github.com/repos/hoppscotch/hoppscotch"]
+    },
+    {
+      "id": 21,
+      "name": "ghost",
+      "description": "Turn your audience into a business. Publishing, newsletters, memberships and subscriptions — all in one place.",
+      "tags": ["javascript", "react", "ember"],
+      "slug": "ghost",
+      "website": "https://ghost.org",
+      "github": "https://github.com/TryGhost",
+      "repos": ["https://api.github.com/repos/TryGhost/Ghost"]
+    },
+    {
+      "id": 22,
+      "name": "strapi",
+      "description": "Build powerful back-end with no effort.",
+      "tags": ["typescript", "react", "koa"],
+      "slug": "strapi",
+      "website": "https://strapi.io",
+      "github": "https://github.com/strapi",
+      "repos": [
+        "https://api.github.com/repos/strapi/strapi",
+        "https://api.github.com/repos/strapi/design-system"
+      ]
+    },
+    {
+      "id": 23,
+      "name": "plausible",
+      "description": "Simple, open source, lightweight (< 1 KB) and privacy-friendly alternative to Google Analytics.",
+      "tags": ["elixir", "react", "javascript"],
+      "slug": "plausible",
+      "website": "https://plausible.io",
+      "github": "https://github.com/plausible",
+      "repos": [
+        "https://api.github.com/repos/plausible/analytics",
+        "https://api.github.com/repos/plausible/wordpress"
       ]
     }
   ]
