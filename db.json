@@ -275,6 +275,19 @@
         "https://api.github.com/repos/plausible/analytics",
         "https://api.github.com/repos/plausible/wordpress"
       ]
+    },
+    {
+      "id": 24,
+      "name": "Prefect",
+      "description": "The easiest way to orchestrate and observe your data pipelines",
+      "tags": ["python", "vuejs", "javascript"],
+      "slug": "prefect",
+      "website": "https://www.prefect.io/",
+      "github": "https://github.com/PrefectHQ",
+      "repos": [
+        "https://api.github.com/repos/PrefectHQ/prefect",
+        "https://api.github.com/repos/PrefectHQ/marvin"
+      ]
     }
   ]
 }
