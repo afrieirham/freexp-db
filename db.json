@@ -232,7 +232,7 @@
     },
     {
       "id": 20,
-      "name": "hoppscotch",
+      "name": "Hoppscotch",
       "description": "Open source API development ecosystem.",
       "tags": ["vuejs", "javascript", "typescript"],
       "slug": "hoppscotch",
@@ -242,7 +242,7 @@
     },
     {
       "id": 21,
-      "name": "ghost",
+      "name": "Ghost",
       "description": "Turn your audience into a business. Publishing, newsletters, memberships and subscriptions — all in one place.",
       "tags": ["javascript", "react", "ember"],
       "slug": "ghost",
@@ -252,7 +252,7 @@
     },
     {
       "id": 22,
-      "name": "strapi",
+      "name": "Strapi",
       "description": "Build powerful back-end with no effort.",
       "tags": ["typescript", "react", "koa"],
       "slug": "strapi",
@@ -265,7 +265,7 @@
     },
     {
       "id": 23,
-      "name": "plausible",
+      "name": "Plausible",
       "description": "Simple, open source, lightweight (< 1 KB) and privacy-friendly alternative to Google Analytics.",
       "tags": ["elixir", "react", "javascript"],
       "slug": "plausible",
