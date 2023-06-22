@@ -288,6 +288,29 @@
         "https://api.github.com/repos/PrefectHQ/prefect",
         "https://api.github.com/repos/PrefectHQ/marvin"
       ]
+    },
+    {
+      "id": 25,
+      "name": "CariSurau.com",
+      "description": "Discover Your Perfect Prayer Haven with Ease!",
+      "tags": ["typescript", "react", "nextjs"],
+      "slug": "carisurau",
+      "website": "https://carisurau.com/",
+      "github": "https://github.com/farhan-helmy/ratemysurau",
+      "repos": ["https://api.github.com/repos/farhan-helmy/ratemysurau"]
+    },
+    {
+      "id": 26,
+      "name": "Malaya Toolkit",
+      "description": "Natural Language Toolkit & Speech Toolkit for Bahasa Malaysia",
+      "tags": ["tensorflow", "python", "jupyter notebook"],
+      "slug": "malaya-toolkit",
+      "website": "",
+      "github": "https://github.com/huseinzol05",
+      "repos": [
+        "https://api.github.com/repos/huseinzol05/malaya",
+        "https://api.github.com/repos/huseinzol05/malaya-speech"
+      ]
     }
   ]
 }
