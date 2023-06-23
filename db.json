@@ -207,7 +207,7 @@
       "id": 18,
       "name": "Invoice Ninja",
       "description": "Free Invoicing Software for Small Businesses built with Laravel, Flutter and React",
-      "tags": ["laravel", "php", "flutter", "dark", "react", "typescript"],
+      "tags": ["laravel", "php", "flutter", "dart", "react", "typescript"],
       "slug": "invoiceninja",
       "website": "https://invoiceninja.com/",
       "github": "https://github.com/invoiceninja",
