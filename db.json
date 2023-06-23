@@ -311,6 +311,59 @@
         "https://api.github.com/repos/huseinzol05/malaya",
         "https://api.github.com/repos/huseinzol05/malaya-speech"
       ]
+    },
+    {
+      "id": 27,
+      "name": "Plane",
+      "description": "An open source tool for building software.",
+      "tags": ["django", "python", "react", "nextjs", "typescript"],
+      "slug": "plane",
+      "website": "https://plane.so/",
+      "github": "https://github.com/makeplane",
+      "repos": [
+        "https://api.github.com/repos/makeplane/plane",
+        "https://api.github.com/repos/makeplane/docs"
+      ]
+    },
+    {
+      "id": 28,
+      "name": "APITable",
+      "description": "The best Airtable open-source alternative and an API-oriented Visual Database",
+      "tags": ["react", "nextjs", "typescript", "java", "spring", "nestjs"],
+      "slug": "apitable",
+      "website": "https://apitable.com/",
+      "github": "https://github.com/apitable",
+      "repos": ["https://api.github.com/repos/apitable/apitable"]
+    },
+    {
+      "id": 29,
+      "name": "Nhost",
+      "description": "The Open Source Firebase Alternative with GraphQL.",
+      "tags": ["react", "nextjs", "typescript"],
+      "slug": "nhost",
+      "website": "https://nhost.io/",
+      "github": "hhttps://github.com/nhost",
+      "repos": ["https://api.github.com/repos/nhost/nhost"]
+    },
+    {
+      "id": 30,
+      "name": "SuperAGI",
+      "description": "<⚡️> SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.",
+      "tags": ["react", "nextjs", "python"],
+      "slug": "superagi",
+      "website": "https://superagi.com/",
+      "github": "https://github.com/TransformerOptimus/SuperAGI",
+      "repos": ["https://api.github.com/repos/TransformerOptimus/SuperAGI"]
+    },
+    {
+      "id": 31,
+      "name": "ToolJet",
+      "description": "Open-source low-code application development platform for building and deploying business applications.",
+      "tags": [""],
+      "slug": "tooljet",
+      "website": "https://www.tooljet.com/",
+      "github": "https://github.com/ToolJet",
+      "repos": ["https://api.github.com/repos/ToolJet/ToolJet"]
     }
   ]
 }
