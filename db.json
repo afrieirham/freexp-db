@@ -397,6 +397,26 @@
       "website": "https://www.plasmic.app/",
       "github": "https://github.com/plasmicapp",
       "repos": ["https://api.github.com/repos/plasmicapp/plasmic"]
+    },
+    {
+      "id": 35,
+      "name": "Typebot",
+      "description": "💬 Typebot is a powerful chatbot builder that you can self-host.",
+      "tags": ["react", "nextjs", "typescript"],
+      "slug": "typebot",
+      "website": "https://typebot.io/",
+      "github": "https://github.com/baptisteArno/typebot.io",
+      "repos": ["https://api.github.com/repos/baptisteArno/typebot.io"]
+    },
+    {
+      "id": 36,
+      "name": "Documenso",
+      "description": "Documenso - The DocuSign Open Source Alternative.",
+      "tags": ["react", "nextjs", "typescript"],
+      "slug": "documenso",
+      "website": "https://documenso.com/",
+      "github": "https://github.com/documenso",
+      "repos": ["https://api.github.com/repos/documenso/documenso"]
     }
   ]
 }
