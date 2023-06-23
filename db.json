@@ -359,11 +359,44 @@
       "id": 31,
       "name": "ToolJet",
       "description": "Open-source low-code application development platform for building and deploying business applications.",
-      "tags": [""],
+      "tags": ["react", "typescript", "javascript", "nestjs"],
       "slug": "tooljet",
       "website": "https://www.tooljet.com/",
       "github": "https://github.com/ToolJet",
       "repos": ["https://api.github.com/repos/ToolJet/ToolJet"]
+    },
+    {
+      "id": 32,
+      "name": "TinaCMS",
+      "description": "A CMS backed by Git with visual editing",
+      "tags": ["react", "nextjs", "typescript"],
+      "slug": "tinacms",
+      "website": "https://tina.io/",
+      "github": "https://github.com/tinacms",
+      "repos": [
+        "https://api.github.com/repos/tinacms/tinacms",
+        "https://api.github.com/repos/tinacms/tina.io"
+      ]
+    },
+    {
+      "id": 33,
+      "name": "dub",
+      "description": "An open-source link shortener with built-in analytics + free custom domains.",
+      "tags": ["react", "nextjs", "typescript"],
+      "slug": "dub",
+      "website": "https://dub.sh/",
+      "github": "https://github.com/steven-tey/dub",
+      "repos": ["https://api.github.com/repos/steven-tey/dub"]
+    },
+    {
+      "id": 34,
+      "name": "Plasmic",
+      "description": "Visual page builder and web design tool for any website or web app tech stack",
+      "tags": ["react", "nextjs", "typescript"],
+      "slug": "plasmic",
+      "website": "https://www.plasmic.app/",
+      "github": "https://github.com/plasmicapp",
+      "repos": ["https://api.github.com/repos/plasmicapp/plasmic"]
     }
   ]
 }
