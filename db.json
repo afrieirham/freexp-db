@@ -182,7 +182,9 @@
         "typescript",
         "react",
         "kotlin",
-        "swift"
+        "swift",
+        "ios",
+        "android"
       ],
       "slug": "forem",
       "website": "https://www.forem.com",
@@ -417,6 +419,83 @@
       "website": "https://documenso.com/",
       "github": "https://github.com/documenso",
       "repos": ["https://api.github.com/repos/documenso/documenso"]
+    },
+    {
+      "id": 37,
+      "name": "Reactive Resume",
+      "description": "A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!",
+      "tags": ["react", "nextjs", "typescript", "nestjs"],
+      "slug": "reactive-resume",
+      "website": "https://rxresu.me/",
+      "github": "https://github.com/AmruthPillai/Reactive-Resume",
+      "repos": ["https://api.github.com/repos/AmruthPillai/Reactive-Resume"]
+    },
+    {
+      "id": 38,
+      "name": "amplication",
+      "description": "Develop quality Node.js applications without spending time on repetitive coding tasks",
+      "tags": ["nestjs", "typescript", "react"],
+      "slug": "amplication",
+      "website": "https://amplication.com/",
+      "github": "https://github.com/amplication",
+      "repos": ["https://api.github.com/repos/amplication/amplication"]
+    },
+    {
+      "id": 39,
+      "name": "Directus",
+      "description": "An instant no-code App and dynamic API for any SQL database.",
+      "tags": ["vuejs", "typescript"],
+      "slug": "directus",
+      "website": "https://directus.io/",
+      "github": "https://github.com/directus",
+      "repos": ["https://api.github.com/repos/directus/directus"]
+    },
+    {
+      "id": 40,
+      "name": "Vue Storefront",
+      "description": "Vue Storefront is the Lighting-Fast Frontend Platform for Headless Commerce",
+      "tags": ["vuejs", "nuxtjs", "typescript", "expressjs", "react", "nextjs"],
+      "slug": "vue-storefront",
+      "website": "https://www.vuestorefront.io/",
+      "github": "https://github.com/vuestorefront",
+      "repos": [
+        "https://api.github.com/repos/vuestorefront/vue-storefront",
+        "https://api.github.com/repos/vuestorefront/storefront-ui"
+      ]
+    },
+    {
+      "id": 41,
+      "name": "Habitica",
+      "description": "A habit tracker app which treats your goals like a Role Playing Game.",
+      "tags": [
+        "vuejs",
+        "expressjs",
+        "javascript",
+        "nodejs",
+        "android",
+        "kotlin",
+        "java",
+        "ios",
+        "swift"
+      ],
+      "slug": "habitica",
+      "website": "https://habitica.com/static/home",
+      "github": "https://github.com/HabitRPG",
+      "repos": [
+        "https://api.github.com/repos/HabitRPG/habitica",
+        "https://api.github.com/repos/HabitRPG/habitica-android",
+        "https://api.github.com/repos/HabitRPG/habitica-ios"
+      ]
+    },
+    {
+      "id": 42,
+      "name": "Builder.io",
+      "description": "The visual headless CMS",
+      "tags": ["react", "nextjs", "typescript"],
+      "slug": "builderio",
+      "website": "https://builder.io/",
+      "github": "https://github.com/BuilderIO",
+      "repos": ["https://api.github.com/repos/BuilderIO/mitosis"]
     }
   ]
 }
