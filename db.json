@@ -741,6 +741,97 @@
         "https://api.github.com/repos/zenml-io/zenml",
         "https://api.github.com/repos/zenml-io/zenml-dashboard"
       ]
+    },
+    {
+      "id": 64,
+      "name": "Ta Vivo",
+      "description": "Monitoring APIs or web services based on a configurable time interval and get notifications via Discord, Email, Slack, Telegram or WhatsApp.",
+      "tags": ["vuejs", "javascript", "expressjs", "react", "nextjs"],
+      "slug": "tavivo",
+      "website": "https://landing.tavivo.do/",
+      "github": "https://github.com/ta-vivo",
+      "repos": [
+        "https://api.github.com/repos/ta-vivo/ta-vivo",
+        "https://api.github.com/repos/ta-vivo/ta-vivo-api",
+        "https://api.github.com/repos/ta-vivo/ta-vivo-landing",
+        "https://api.github.com/repos/ta-vivo/ta-vivo-whatsapp-service"
+      ]
+    },
+    {
+      "id": 65,
+      "name": "freeCodeCamp",
+      "description": "Learn to code for free with millions of other people around the world",
+      "tags": [
+        "react",
+        "nextjs",
+        "typescript",
+        "javascript",
+        "flutter",
+        "dart"
+      ],
+      "slug": "freeCodeCamp",
+      "website": "http://freecodecamp.org",
+      "github": "https://github.com/freeCodeCamp",
+      "repos": [
+        "https://api.github.com/repos/freeCodeCamp/freeCodeCamp",
+        "https://api.github.com/repos/freeCodeCamp/classroom",
+        "https://api.github.com/repos/freeCodeCamp/mobile"
+      ]
+    },
+    {
+      "id": 66,
+      "name": "Sentry",
+      "description": "Real-time crash reporting for your web apps, mobile apps, and games.",
+      "tags": ["react", "typescript", "django", "python", "rust"],
+      "slug": "sentry",
+      "website": "https://sentry.io/",
+      "github": "https://github.com/getsentry",
+      "repos": [
+        "https://api.github.com/repos/getsentry/sentry",
+        "https://api.github.com/repos/getsentry/relay",
+        "https://api.github.com/repos/getsentry/symbolicator",
+        "https://api.github.com/repos/getsentry/symbolic"
+      ]
+    },
+    {
+      "id": 67,
+      "name": "Healthchecks",
+      "description": "Open-source cron job and background task monitoring",
+      "tags": ["python", "django"],
+      "slug": "healthchecks",
+      "website": "https://healthchecks.io/",
+      "github": "https://github.com/healthchecks",
+      "repos": [
+        "https://api.github.com/repos/healthchecks/healthchecks",
+        "https://api.github.com/repos/healthchecks/dashboard"
+      ]
+    },
+    {
+      "id": 68,
+      "name": "Weblate",
+      "description": "Weblate, the web-based continuous localization system.",
+      "tags": ["python", "django"],
+      "slug": "weblate",
+      "website": "https://weblate.org/en",
+      "github": "https://github.com/WeblateOrg",
+      "repos": [
+        "https://api.github.com/repos/WeblateOrg/weblate",
+        "https://api.github.com/repos/WeblateOrg/website"
+      ]
+    },
+    {
+      "id": 69,
+      "name": "Saleor Commerce",
+      "description": "The commerce API that puts developers first.",
+      "tags": ["python", "django", "typescript", "react", "nextjs"],
+      "slug": "saleor",
+      "website": "https://saleor.io/",
+      "github": "https://github.com/saleor",
+      "repos": [
+        "https://api.github.com/repos/saleor/saleor",
+        "https://api.github.com/repos/saleor/saleor-dashboard",
+        "https://api.github.com/repos/saleor/react-storefront"
+      ]
     }
   ]
 }
