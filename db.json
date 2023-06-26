@@ -496,6 +496,251 @@
       "website": "https://builder.io/",
       "github": "https://github.com/BuilderIO",
       "repos": ["https://api.github.com/repos/BuilderIO/mitosis"]
+    },
+    {
+      "id": 43,
+      "name": "Appsmith",
+      "description": "A powerful open-source framework to build internal tools.",
+      "tags": ["react", "typescript", "java"],
+      "slug": "appsmith",
+      "website": "https://www.appsmith.com/",
+      "github": "https://github.com/appsmithorg",
+      "repos": ["https://api.github.com/repos/appsmithorg/appsmith"]
+    },
+    {
+      "id": 44,
+      "name": "Appwrite",
+      "description": "End to end backend server for frontend and mobile developers. 👩‍💻👨‍💻",
+      "tags": ["php", "utopia-php", "svelte", "typescript"],
+      "slug": "appwrite",
+      "website": "https://appwrite.io/",
+      "github": "https://github.com/appwrite",
+      "repos": [
+        "https://api.github.com/repos/appwrite/appwrite",
+        "https://api.github.com/repos/appwrite/console"
+      ]
+    },
+    {
+      "id": 45,
+      "name": "crowd.dev",
+      "description": "Open-source community and data tools built to unlock community-led growth for developer tools.",
+      "tags": ["expressjs", "typescript", "vuejs"],
+      "slug": "CrowdDotDev",
+      "website": "https://www.crowd.dev/",
+      "github": "https://github.com/CrowdDotDev",
+      "repos": ["https://api.github.com/repos/CrowdDotDev/crowd.dev"]
+    },
+    {
+      "id": 46,
+      "name": "Dragonfly",
+      "description": "Dragonfly is a drop-in Redis replacement that is high-performance and low-complexity. Millions of QPS and terabyte-sized workloads, all on a single instance.",
+      "tags": ["c++"],
+      "slug": "dragonfly",
+      "website": "https://www.dragonflydb.io/",
+      "github": "https://github.com/dragonflydb",
+      "repos": ["https://api.github.com/repos/dragonflydb/dragonfly"]
+    },
+    {
+      "id": 47,
+      "name": "Edgeless Systems",
+      "description": "Building super-secure and easy-to-use software for Confidential Computing",
+      "tags": ["golang"],
+      "slug": "edgelesssystem",
+      "website": "https://www.edgeless.systems/",
+      "github": "https://github.com/edgelesssys",
+      "repos": [
+        "https://api.github.com/repos/edgelesssys/constellation",
+        "https://api.github.com/repos/edgelesssys/edgelessdb",
+        "https://api.github.com/repos/edgelesssys/marblerun",
+        "https://api.github.com/repos/edgelesssys/ego"
+      ]
+    },
+    {
+      "id": 48,
+      "name": "ElectricSQL",
+      "description": "Local-first software platform for developing instantly reactive apps with realtime multi-user and conflict-free offline support.",
+      "tags": ["elixir", "typescript"],
+      "slug": "electric-sql",
+      "website": "https://electric-sql.com/",
+      "github": "https://github.com/electric-sql",
+      "repos": ["https://api.github.com/repos/electric-sql/electric"]
+    },
+    {
+      "id": 49,
+      "name": "erxes Inc",
+      "description": "Single experience operating system (XOS) to align your entire business",
+      "tags": ["typescript", "react", "nextjs"],
+      "slug": "erxes",
+      "website": "https://erxes.io/",
+      "github": "https://github.com/erxes",
+      "repos": ["https://api.github.com/repos/erxes/erxes"]
+    },
+    {
+      "id": 50,
+      "name": "Formbricks",
+      "description": "In-product micro-surveys.",
+      "tags": ["nextjs", "react", "typescript"],
+      "slug": "formbricks",
+      "website": "https://formbricks.com/",
+      "github": "https://github.com/formbricks",
+      "repos": ["https://api.github.com/repos/formbricks/formbricks"]
+    },
+    {
+      "id": 51,
+      "name": "Giskard",
+      "description": "Eliminate risks of AI errors, privacy issues & biases. Built in Europe 🇫🇷 🇪🇺",
+      "tags": ["python", "java", "vuejs", "typescript"],
+      "slug": "giskard",
+      "website": "https://www.giskard.ai/",
+      "github": "https://github.com/Giskard-AI",
+      "repos": ["https://api.github.com/repos/Giskard-AI/giskard"]
+    },
+    {
+      "id": 52,
+      "name": "Hanko",
+      "description": "For an internet without passwords.",
+      "tags": ["golang", "typescript"],
+      "slug": "hanko",
+      "website": "https://www.hanko.io/",
+      "github": "https://github.com/teamhanko",
+      "repos": ["https://api.github.com/repos/teamhanko/hanko"]
+    },
+    {
+      "id": 53,
+      "name": "HumanSignal",
+      "description": "Data labeling and exploration tools for Machine Learning",
+      "tags": ["python", "react", "javascript", "typescript"],
+      "slug": "humansignal",
+      "website": "https://humansignal.com/",
+      "github": "https://github.com/heartexlabs",
+      "repos": [
+        "https://api.github.com/repos/heartexlabs/label-studio",
+        "https://api.github.com/repos/heartexlabs/label-studio-frontend"
+      ]
+    },
+    {
+      "id": 54,
+      "name": "Lago",
+      "description": "Open Source Metering and Usage Based Billing",
+      "tags": ["react", "typescript", "ruby on rails", "ruby"],
+      "slug": "lago",
+      "website": "https://www.getlago.com/",
+      "github": "https://github.com/getlago",
+      "repos": [
+        "https://api.github.com/repos/getlago/lago",
+        "https://api.github.com/repos/getlago/lago-api",
+        "https://api.github.com/repos/getlago/lago-front"
+      ]
+    },
+    {
+      "id": 55,
+      "name": "Meteor",
+      "description": "An open source platform for building web, mobile and desktop apps in JavaScript or TypeScript.",
+      "tags": ["javascript"],
+      "slug": "meteor",
+      "website": "https://www.meteor.com/cloud",
+      "github": "https://github.com/meteor",
+      "repos": ["https://api.github.com/repos/meteor/meteor"]
+    },
+    {
+      "id": 56,
+      "name": "Novu",
+      "description": "The open-source notification infrastructure for developers",
+      "tags": ["react", "typescript"],
+      "slug": "novu",
+      "website": "https://novu.co/",
+      "github": "https://github.com/novuhq",
+      "repos": ["https://api.github.com/repos/novuhq/novu"]
+    },
+    {
+      "id": 57,
+      "name": "PostHog",
+      "description": "Open-source product analytics platform",
+      "tags": ["react", "typescript", "gatsby", "python"],
+      "slug": "posthog",
+      "website": "https://posthog.com/",
+      "github": "https://github.com/PostHog",
+      "repos": [
+        "https://api.github.com/repos/PostHog/posthog",
+        "https://api.github.com/repos/PostHog/posthog.com",
+        "https://api.github.com/repos/PostHog/HouseWatch"
+      ]
+    },
+    {
+      "id": 58,
+      "name": "Qdrant",
+      "description": "Creating advanced vector search technology",
+      "tags": ["rust"],
+      "slug": "qdrant",
+      "website": "https://qdrant.tech/",
+      "github": "https://github.com/qdrant",
+      "repos": [
+        "https://api.github.com/repos/qdrant/qdrant",
+        "https://api.github.com/repos/qdrant/landing_page"
+      ]
+    },
+    {
+      "id": 59,
+      "name": "QuestDB",
+      "description": "QuestDB is the fastest open source time-series database",
+      "tags": ["java", "react", "typescript"],
+      "slug": "questdb",
+      "website": "https://questdb.io/",
+      "github": "https://github.com/questdb",
+      "repos": [
+        "https://api.github.com/repos/questdb/questdb",
+        "https://api.github.com/repos/questdb/ui",
+        "https://api.github.com/repos/questdb/questdb.io"
+      ]
+    },
+    {
+      "id": 60,
+      "name": "Tailwarden",
+      "description": "Build your cloud asset inventory and uncover insights (cost wasted, security threads and compliance issues) 👀",
+      "tags": ["golang", "nextjs", "react", "typescript"],
+      "slug": "tailwarden",
+      "website": "https://www.tailwarden.com/",
+      "github": "https://github.com/tailwarden",
+      "repos": [
+        "https://api.github.com/repos/tailwarden/komiser",
+        "https://api.github.com/repos/tailwarden/komiser.io",
+        "https://api.github.com/repos/questdb/questdb.io"
+      ]
+    },
+    {
+      "id": 61,
+      "name": "United Manufacturing Hub",
+      "description": "Scale the Industrial IoT. Bringing the worlds best IT and OT tools into the hands of the engineer.",
+      "tags": ["golang"],
+      "slug": "united-manufacturing-hub",
+      "website": "https://www.umh.app/",
+      "github": "https://github.com/united-manufacturing-hub",
+      "repos": [
+        "https://api.github.com/repos/united-manufacturing-hub/united-manufacturing-hub"
+      ]
+    },
+    {
+      "id": 62,
+      "name": "Widgetbook",
+      "description": "Widgetbook is an open source Flutter package accelerating the widget development and review process.",
+      "tags": ["flutter", "dart"],
+      "slug": "widgetbook",
+      "website": "https://www.widgetbook.io/",
+      "github": "https://github.com/widgetbook",
+      "repos": ["https://api.github.com/repos/widgetbook/widgetbook"]
+    },
+    {
+      "id": 63,
+      "name": "ZenML",
+      "description": "Building production MLOps tooling.",
+      "tags": ["python", "react", "typescript"],
+      "slug": "zenml",
+      "website": "https://zenml.io/home",
+      "github": "https://github.com/zenml-io",
+      "repos": [
+        "https://api.github.com/repos/zenml-io/zenml",
+        "https://api.github.com/repos/zenml-io/zenml-dashboard"
+      ]
     }
   ]
 }
