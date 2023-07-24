@@ -15,7 +15,10 @@
         "javascript",
         "trpc"
       ],
-      "repos": ["https://api.github.com/repos/calcom/cal.com"]
+      "repos": [
+        "https://api.github.com/repos/calcom/cal.com",
+        "https://api.github.com/repos/calcom/synclinear.com"
+      ]
     },
     {
       "id": 2,
@@ -832,6 +835,87 @@
         "https://api.github.com/repos/saleor/saleor-dashboard",
         "https://api.github.com/repos/saleor/react-storefront"
       ]
+    },
+    {
+      "id": 70,
+      "name": "Skiff",
+      "description": "Skiff is an end-to-end encrypted, privacy-first workspace built for communicating and collaborating freely. Today, we offer Mail, Calendar, Pages (notes), and Drive products.",
+      "tags": ["react", "nextjs", "typescript", "c#"],
+      "slug": "skiff",
+      "website": "https://skiff.com/",
+      "github": "https://github.com/skiff-org",
+      "repos": [
+        "https://api.github.com/repos/skiff-org/skiff-apps",
+        "https://api.github.com/repos/skiff-org/skiff-windows-app"
+      ]
+    },
+    {
+      "id": 71,
+      "name": "Spacedrive",
+      "description": "A file explorer from the future",
+      "tags": [
+        "rust",
+        "tauri",
+        "react native",
+        "react",
+        "typescript",
+        "swift",
+        "macos",
+        "ios",
+        "c#",
+        "kotlin",
+        "android"
+      ],
+      "slug": "spacedrive",
+      "website": "https://www.spacedrive.com/",
+      "github": "https://github.com/spacedriveapp",
+      "repos": ["https://api.github.com/repos/spacedriveapp/spacedrive"]
+    },
+    {
+      "id": 72,
+      "name": "AFFiNE",
+      "description": "AFFiNE: Write, Draw, Plan - a next-gen knowledge base and open-source alternative to Notion & Miro.",
+      "tags": [
+        "electron",
+        "nestjs",
+        "typescript",
+        "react",
+        "nextjs",
+        "rust",
+        "swift",
+        "kotlin",
+        "vuejs",
+        "nuxtjs"
+      ],
+      "slug": "affine",
+      "website": "https://affine.pro/",
+      "github": "https://github.com/toeverything",
+      "repos": [
+        "https://api.github.com/repos/toeverything/affine",
+        "https://api.github.com/repos/toeverything/blocksuite",
+        "https://api.github.com/repos/toeverything/octobase",
+        "https://api.github.com/repos/toeverything/AFFiNE.pro"
+      ]
+    },
+    {
+      "id": 73,
+      "name": "Logseq",
+      "description": "A privacy-first, open-source platform for knowledge management and collaboration.",
+      "tags": ["clojure", "react", "rum", "typescript", "electron"],
+      "slug": "logseq",
+      "website": "https://logseq.com/",
+      "github": "https://github.com/logseq",
+      "repos": ["https://api.github.com/repos/logseq/logseq"]
+    },
+    {
+      "id": 74,
+      "name": "Jitsu",
+      "description": "Jitsu (YC S20) is an open-source data integration and event collection platform.",
+      "tags": ["react", "typescript", "golang"],
+      "slug": "jitsu",
+      "website": "https://jitsu.com/",
+      "github": "https://github.com/jitsucom",
+      "repos": ["https://api.github.com/repos/jitsucom/jitsu"]
     }
   ]
 }
