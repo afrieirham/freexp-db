@@ -916,6 +916,16 @@
       "website": "https://jitsu.com/",
       "github": "https://github.com/jitsucom",
       "repos": ["https://api.github.com/repos/jitsucom/jitsu"]
+    },
+    {
+      "id": 75,
+      "name": "Twenty",
+      "description": "A modern CRM offering the flexibility of open source, advanced features, and a sleek design. Building a modern alternative to Salesforce.",
+      "tags": ["react", "typescript", "graphql", "postgresql", "nestjs"],
+      "slug": "twenty",
+      "website": "https://twenty.com/",
+      "github": "https://github.com/twentyhq/twenty",
+      "repos": ["https://api.github.com/repos/jitsucom/jitsu"]
     }
   ]
 }
