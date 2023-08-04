@@ -926,6 +926,16 @@
       "website": "https://twenty.com/",
       "github": "https://github.com/twentyhq",
       "repos": ["https://api.github.com/repos/twentyhq/twenty"]
+    },
+    {
+      "id": 76,
+      "name": "Theta",
+      "description": "Design server-driven no-code design systems with instant updates via API.",
+      "tags": ["flutter", "dart"],
+      "slug": "buildwiththeta",
+      "website": "https://buildwiththeta.com/",
+      "github": "https://github.com/buildwiththeta",
+      "repos": ["https://api.github.com/repos/buildwiththeta/buildwiththeta"]
     }
   ]
 }
