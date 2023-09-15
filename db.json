@@ -956,6 +956,45 @@
       "website": "https://www.parabol.co/",
       "github": "https://github.com/ParabolInc",
       "repos": ["https://api.github.com/repos/ParabolInc/parabol"]
+    },
+    {
+      "id": 79,
+      "name": "Windmill",
+      "description": "Open-source developer platform to turn scripts into workflows and UIs. Open-source alternative to Airplane and Retool.",
+      "tags": [
+        "rust",
+        "svelte",
+        "javascript",
+        "typescript",
+        "python",
+        "golang"
+      ],
+      "slug": "windmill",
+      "website": "https://www.windmill.dev/",
+      "github": "https://github.com/windmill-labs",
+      "repos": ["https://api.github.com/repos/windmill-labs/windmill"]
+    },
+    {
+      "id": 80,
+      "name": "Bitwarden",
+      "description": "Open source password management solutions for individuals, teams, and business organizations.",
+      "tags": [
+        "electron",
+        "nodejs",
+        "typescript",
+        "angular",
+        "c#",
+        "dotnet",
+        "xamarin"
+      ],
+      "slug": "bitwarden",
+      "website": "https://bitwarden.com/",
+      "github": "https://github.com/bitwarden",
+      "repos": [
+        "https://api.github.com/repos/bitwarden/clients",
+        "https://api.github.com/repos/bitwarden/mobile",
+        "https://api.github.com/repos/bitwarden/server"
+      ]
     }
   ]
 }
