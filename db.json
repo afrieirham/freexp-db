@@ -839,7 +839,7 @@
     {
       "id": 70,
       "name": "Skiff",
-      "description": "Skiff is an end-to-end encrypted, privacy-first workspace built for communicating and collaborating freely. Today, we offer Mail, Calendar, Pages (notes), and Drive products.",
+      "description": "Privacy-first, end-to-end encrypted Mail, Pages, Drive, and Calendar.",
       "tags": ["react", "nextjs", "typescript", "c#"],
       "slug": "skiff",
       "website": "https://skiff.com/",
@@ -949,16 +949,6 @@
     },
     {
       "id": 78,
-      "name": "Skiff",
-      "description": "Privacy-first, end-to-end encrypted Mail, Pages, Drive, and Calendar.",
-      "tags": ["typescript", "react", "nextjs"],
-      "slug": "skiff",
-      "website": "https://skiff.com/",
-      "github": "https://github.com/skiff-org",
-      "repos": ["https://api.github.com/repos/skiff-org/skiff-apps"]
-    },
-    {
-      "id": 79,
       "name": "Parabol",
       "description": "Free online agile retrospective meeting tool",
       "tags": ["nodejs", "react", "typescript"],
