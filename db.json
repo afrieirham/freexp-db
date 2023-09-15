@@ -581,7 +581,7 @@
     {
       "id": 50,
       "name": "Formbricks",
-      "description": "In-product micro-surveys.",
+      "description": "Open Source Surveys & Experience Management Solution",
       "tags": ["nextjs", "react", "typescript"],
       "slug": "formbricks",
       "website": "https://formbricks.com/",
@@ -936,6 +936,36 @@
       "website": "https://buildwiththeta.com/",
       "github": "https://github.com/buildwiththeta",
       "repos": ["https://api.github.com/repos/buildwiththeta/buildwiththeta"]
+    },
+    {
+      "id": 77,
+      "name": "Coolify",
+      "description": "An open-source & self-hostable Heroku / Netlify alternative.",
+      "tags": ["php", "laravel", "vuejs"],
+      "slug": "coolify",
+      "website": "https://coolify.io/",
+      "github": "https://github.com/coollabsio",
+      "repos": ["https://api.github.com/repos/coollabsio/coolify"]
+    },
+    {
+      "id": 78,
+      "name": "Skiff",
+      "description": "Privacy-first, end-to-end encrypted Mail, Pages, Drive, and Calendar.",
+      "tags": ["typescript", "react", "nextjs"],
+      "slug": "skiff",
+      "website": "https://skiff.com/",
+      "github": "https://github.com/skiff-org",
+      "repos": ["https://api.github.com/repos/skiff-org/skiff-apps"]
+    },
+    {
+      "id": 79,
+      "name": "Parabol",
+      "description": "Free online agile retrospective meeting tool",
+      "tags": ["nodejs", "react", "typescript"],
+      "slug": "parabol",
+      "website": "https://www.parabol.co/",
+      "github": "https://github.com/ParabolInc",
+      "repos": ["https://api.github.com/repos/ParabolInc/parabol"]
     }
   ]
 }
