@@ -1064,6 +1064,16 @@
       "website": "https://www.hyperdx.io/",
       "github": "https://github.com/hyperdxio",
       "repos": ["https://api.github.com/repos/hyperdxio/hyperdx"]
+    },
+    {
+      "id": 87,
+      "name": "ClickHouse",
+      "description": "ClickHouse is the fastest open-source OLAP database ⚡",
+      "tags": ["c++"],
+      "slug": "clickhouse",
+      "website": "https://clickhouse.com/",
+      "github": "https://github.com/ClickHouse",
+      "repos": ["https://api.github.com/repos/ClickHouse/ClickHouse"]
     }
   ]
 }
