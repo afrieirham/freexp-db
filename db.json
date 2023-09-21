@@ -1084,6 +1084,61 @@
       "website": "https://www.metabase.com/",
       "github": "https://github.com/metabase",
       "repos": ["https://api.github.com/repos/metabase/metabase"]
+    },
+    {
+      "id": 89,
+      "name": "Open Replay",
+      "description": "OpenReplay is developer-friendly, self-hosted session replay.",
+      "tags": ["react", "typescript", "golang", "python"],
+      "slug": "openreplay",
+      "website": "https://openreplay.com/",
+      "github": "https://github.com/openreplay",
+      "repos": ["https://api.github.com/repos/openreplay/openreplay"]
+    },
+    {
+      "id": 90,
+      "name": "Taiga",
+      "description": "Taiga is a free and open-source project management tool for cross-functional agile teams to work effectively.",
+      "tags": ["python", "fastapi", "django", "angular", "typescript"],
+      "slug": "taiga",
+      "website": "https://taiga.io/",
+      "github": "https://github.com/taigaio",
+      "repos": ["https://api.github.com/repos/taigaio/taiga/"]
+    },
+    {
+      "id": 91,
+      "name": "Outline",
+      "description": "The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.",
+      "tags": ["react", "typescript", "koa"],
+      "slug": "outline",
+      "website": "https://www.getoutline.com/",
+      "github": "https://github.com/outline",
+      "repos": ["https://api.github.com/repos/outline/outline/"]
+    },
+    {
+      "id": 92,
+      "name": "Chatwoot",
+      "description": "Open-source omnichannel customer engagement suite, an alternative to Intercom/Zendesk, built with a lot of love from the community.",
+      "tags": ["ruby on rails", "ruby", "vuejs", "javascript"],
+      "slug": "chatwoot",
+      "website": "https://www.chatwoot.com/",
+      "github": "https://github.com/chatwoot",
+      "repos": ["https://api.github.com/repos/chatwoot/chatwoot/"]
+    },
+    {
+      "id": 93,
+      "name": "RocketChat",
+      "description": "The communications platform that puts data protection first.",
+      "tags": ["typescript", "react native", "electron", "meteorjs"],
+      "slug": "RocketChat",
+      "website": "https://www.rocket.chat/",
+      "github": "https://github.com/RocketChat",
+      "repos": [
+        "https://api.github.com/repos/RocketChat/Rocket.Chat",
+        "https://api.github.com/repos/RocketChat/RocketChat/Rocket.Chat.Electron",
+        "https://api.github.com/repos/RocketChat/RocketChat/Rocket.Chat.ReactNative",
+        "https://api.github.com/repos/RocketChat/RocketChat/Rocket.Chat.Apps-engine"
+      ]
     }
   ]
 }
