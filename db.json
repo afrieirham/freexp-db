@@ -1074,6 +1074,16 @@
       "website": "https://clickhouse.com/",
       "github": "https://github.com/ClickHouse",
       "repos": ["https://api.github.com/repos/ClickHouse/ClickHouse"]
+    },
+    {
+      "id": 88,
+      "name": "Metabase",
+      "description": "The simplest, fastest way to get business intelligence and analytics to everyone in your company 😋",
+      "tags": ["clojure", "typescript", "react", "javascript"],
+      "slug": "metabase",
+      "website": "https://www.metabase.com/",
+      "github": "https://github.com/metabase",
+      "repos": ["https://api.github.com/repos/metabase/metabase"]
     }
   ]
 }
