@@ -1159,6 +1159,16 @@
       "website": "https://openstatus.dev/",
       "github": "https://github.com/openstatusHQ",
       "repos": ["https://api.github.com/repos/openstatusHQ/openstatus"]
+    },
+    {
+      "id": 96,
+      "name": "Webstudio",
+      "description": "Open Visual Development for the Open Web. Open Source Webflow alternative.",
+      "tags": ["remix", "react", "typescript"],
+      "slug": "webstudio",
+      "website": "https://webstudio.is/",
+      "github": "https://github.com/webstudio-is",
+      "repos": ["https://api.github.com/repos/webstudio-is/webstudio"]
     }
   ]
 }
