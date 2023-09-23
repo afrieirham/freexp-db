@@ -1139,6 +1139,26 @@
         "https://api.github.com/repos/RocketChat/RocketChat/Rocket.Chat.ReactNative",
         "https://api.github.com/repos/RocketChat/RocketChat/Rocket.Chat.Apps-engine"
       ]
+    },
+    {
+      "id": 94,
+      "name": "OpenBB",
+      "description": "Make investment research accessible to everyone, anywhere.",
+      "tags": ["python"],
+      "slug": "openbb",
+      "website": "https://openbb.co/",
+      "github": "https://github.com/OpenBB-finance",
+      "repos": ["https://api.github.com/repos/OpenBB-finance/OpenBBTerminal"]
+    },
+    {
+      "id": 95,
+      "name": "OpenStatus",
+      "description": "The open-source monitoring service",
+      "tags": ["nextjs", "react", "typescript"],
+      "slug": "openstatus",
+      "website": "https://openstatus.dev/",
+      "github": "https://github.com/openstatusHQ",
+      "repos": ["https://api.github.com/repos/openstatusHQ/openstatus"]
     }
   ]
 }
