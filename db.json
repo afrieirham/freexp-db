@@ -1135,9 +1135,9 @@
       "github": "https://github.com/RocketChat",
       "repos": [
         "https://api.github.com/repos/RocketChat/Rocket.Chat",
-        "https://api.github.com/repos/RocketChat/RocketChat/Rocket.Chat.Electron",
-        "https://api.github.com/repos/RocketChat/RocketChat/Rocket.Chat.ReactNative",
-        "https://api.github.com/repos/RocketChat/RocketChat/Rocket.Chat.Apps-engine"
+        "https://api.github.com/repos/RocketChat/Rocket.Chat.Electron",
+        "https://api.github.com/repos/RocketChat/Rocket.Chat.ReactNative",
+        "https://api.github.com/repos/RocketChat/Rocket.Chat.Apps-engine"
       ]
     },
     {
